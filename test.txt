@@ -1,1 +1,2 @@
-Test commit for WP-1
+WP-2: Test Jira integration
+WP-2: Adding new line for Jira integration
